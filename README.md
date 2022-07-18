@@ -9,7 +9,7 @@ Using React Native (Hook), Socket.IO, Nodejs, Redux, react-navigation, and Gifte
     Clone the project
     ```sh
     # clone the project to your local computer
-    git clone https://github.com/ashleynguci/realtime-chat-app.git
+    git clone https://github.com/tungtruong0822/realtime_chatApp.git
     ```
 1.  **Step 2.**
     Check your IP address for backend connect
